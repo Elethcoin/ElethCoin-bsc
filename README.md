@@ -1,2 +1,2 @@
-# ElethCoin-bsc
-token BEP20 
+# ElethCoin token BEP20 
+* official site:[ elethcoin](https://elethcoin.com/)
